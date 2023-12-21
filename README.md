@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on AIGC, Computer Vision, etc.
 - 🌱Know more about me: https://jiaweijson.top/
-- 📫 How to reach me: zjw1637@google.com
+- 📫 How to reach me: zjw1637@gmail.com
   
 <!--
 **lawrence-cj/lawrence-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
